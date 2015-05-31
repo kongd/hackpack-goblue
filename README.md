@@ -1,6 +1,6 @@
 # hackpack-goblue
 
-Simple program that scrolls "Go Blue!" on an LED matrix. Based off of sample pre-loaded code.
+Simple program that scrolls "Go Blue!" on an LED matrix. Based off of sample code from Twilio.
 
 Built to work with the Hackpack and Arduino kit handed out at Twilio Signal 2015. More information on the hackpack can be found [here](https://www.twilio.com/blog/2015/05/how-to-build-your-own-hackpack.html)
 
