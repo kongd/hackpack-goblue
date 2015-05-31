@@ -16,3 +16,4 @@ Install the following libraries before use:
 * [Neopixel Library] (https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library)
 * [Neomatrix Library] (https://learn.adafruit.com/adafruit-neopixel-uberguide/neomatrix-library)
 
+[Demo] (https://vine.co/v/eh7QO6DDQAg)
